@@ -1,0 +1,15 @@
+PACKAGE = EXPRESS.JS
+Web framework for Node.js.
+
+EXPRESSJS ==> NODEJS
+
+Express in Human Friendly because it is very readable code
+
+FRAMEWORK => FOLLOW MY RULES
+
+
+INSTALLING PACKAGE -
+
+npm install package_name
+npm install express
+npm install morgan
